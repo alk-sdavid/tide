@@ -89,3 +89,6 @@ tide_vi_mode_icon_replace R
 tide_vi_mode_icon_visual V
 tide_virtual_env_bg_color brblack
 tide_virtual_env_color cyan
+tide_python_color yellow
+tide_python_bg_color normal
+tide_python_icon 
